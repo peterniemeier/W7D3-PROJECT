@@ -5,5 +5,5 @@ import pokemonReducer from './pokemon_reducer';
 
 export default combineReducers ({
   // itemsReducer,
-  pokemonReducer
+  pokemon: pokemonReducer
 });
